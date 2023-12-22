@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays aiash keywzdford.
+
+ps -aux | grep bash
